@@ -1,3 +1,3 @@
 # Running the example
 
-    qmlscene Main.qml
+    $ QT_QUICK_CONTROLS_STYLE=material qmlscene Main.qml
