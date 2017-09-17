@@ -1,5 +1,5 @@
 # C++ objects and libs
-
+*.qmlc
 *.slo
 *.lo
 *.o

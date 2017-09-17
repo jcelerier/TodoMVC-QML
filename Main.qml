@@ -66,6 +66,7 @@ QC.ApplicationWindow { id: root
                     text: todo
                     font.strikeout: check.checked
                     color: check.checked ? "#aaa" : "#222"
+                    width: 0.6 * root.width
                 }
                 QC.Button { id: cross
                     anchors.verticalCenter: parent.verticalCenter
